@@ -1,0 +1,1620 @@
+fileFormatVersion: 2
+guid: 9f958006de2e7554da075cf07d12df82
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2307332597735870950
+    second: dance_0
+  - first:
+      213: 4544066942650153036
+    second: dance_1
+  - first:
+      213: -2681530692873181952
+    second: dance_2
+  - first:
+      213: -6038434089421578891
+    second: dance_3
+  - first:
+      213: 629119024987850105
+    second: dance_4
+  - first:
+      213: 4221554516462843097
+    second: dance_5
+  - first:
+      213: 4258098317611406
+    second: dance_6
+  - first:
+      213: 61059611583729416
+    second: dance_7
+  - first:
+      213: 186343816661913659
+    second: dance_8
+  - first:
+      213: 3471242735515233202
+    second: dance_9
+  - first:
+      213: 4223838272195351848
+    second: dance_10
+  - first:
+      213: 2670996823419918381
+    second: dance_11
+  - first:
+      213: 1228374277262706937
+    second: dance_12
+  - first:
+      213: -8994706880740751055
+    second: dance_13
+  - first:
+      213: -5503082137789827236
+    second: dance_14
+  - first:
+      213: 4315356681285220697
+    second: dance_15
+  - first:
+      213: 4632300510944849059
+    second: dance_16
+  - first:
+      213: -7441788523387569381
+    second: dance_17
+  - first:
+      213: -6459815195711817013
+    second: dance_18
+  - first:
+      213: -2176696936891921860
+    second: dance_19
+  - first:
+      213: -1464766294629876994
+    second: dance_20
+  - first:
+      213: -3935543733495194608
+    second: dance_21
+  - first:
+      213: 6299462377410081923
+    second: dance_22
+  - first:
+      213: 5967634777717808862
+    second: dance_23
+  - first:
+      213: 2498779086275438902
+    second: dance_24
+  - first:
+      213: 4173368321181526435
+    second: dance_25
+  - first:
+      213: -5992289276870168048
+    second: dance_26
+  - first:
+      213: -732783946483008115
+    second: dance_27
+  - first:
+      213: -1154124245151462202
+    second: dance_28
+  - first:
+      213: -438900336026866684
+    second: dance_29
+  - first:
+      213: -660399655063900892
+    second: dance_30
+  - first:
+      213: -5084979221433188270
+    second: dance_31
+  - first:
+      213: -1314785565161067909
+    second: dance_32
+  - first:
+      213: -2503164619168897501
+    second: dance_33
+  - first:
+      213: 3266895240409682972
+    second: dance_34
+  - first:
+      213: 4687169086930497678
+    second: dance_35
+  - first:
+      213: 8153367988004952199
+    second: dance_36
+  - first:
+      213: 1436999858999367397
+    second: dance_37
+  - first:
+      213: -467539472490216638
+    second: dance_38
+  - first:
+      213: 1858681802335694132
+    second: dance_39
+  - first:
+      213: -6363905236335290634
+    second: dance_40
+  - first:
+      213: -1682608320123008903
+    second: dance_41
+  - first:
+      213: -5524342857850553290
+    second: dance_42
+  - first:
+      213: 7232198602025191642
+    second: dance_43
+  - first:
+      213: -2157848667550493948
+    second: dance_44
+  - first:
+      213: 8786542576498612741
+    second: dance_45
+  - first:
+      213: 2526623089947141422
+    second: dance_46
+  - first:
+      213: 8895579350754064925
+    second: dance_47
+  - first:
+      213: -5161414053574893697
+    second: dance_48
+  - first:
+      213: 1389539332863596113
+    second: dance_49
+  - first:
+      213: 5108224335063977506
+    second: dance_50
+  - first:
+      213: 6485937780172356997
+    second: dance_51
+  - first:
+      213: 7334179010503493229
+    second: dance_52
+  - first:
+      213: -4678198545414577540
+    second: dance_53
+  - first:
+      213: -6695983538040380540
+    second: dance_54
+  - first:
+      213: 1547779450334315373
+    second: dance_55
+  - first:
+      213: 8662721078167314417
+    second: dance_56
+  - first:
+      213: -683832037973724921
+    second: dance_57
+  - first:
+      213: 2266287997888815172
+    second: dance_58
+  - first:
+      213: -7170969379964068182
+    second: dance_59
+  - first:
+      213: 2408120558027051010
+    second: dance_60
+  - first:
+      213: 4123703119168987652
+    second: dance_61
+  - first:
+      213: 4204983483496213818
+    second: dance_62
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dance_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1d9bad5ca450020800000000000000
+      internalID: 2307332597735870950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_1
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1600
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48f1401fc4cf0f30800000000000000
+      internalID: 4544066942650153036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_2
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1600
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005acfcca0a49cad0800000000000000
+      internalID: -2681530692873181952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_3
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1600
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57dda6c403c233ca0800000000000000
+      internalID: -6038434089421578891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_4
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1600
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97547d58b641bb800800000000000000
+      internalID: 629119024987850105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_5
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1600
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4b6b94779f59a30800000000000000
+      internalID: 4221554516462843097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_6
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1600
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81d3a5c7b02f0000800000000000000
+      internalID: 4258098317611406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1400
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f429aa46de8d000800000000000000
+      internalID: 61059611583729416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_8
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1400
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b305936c6b6069200800000000000000
+      internalID: 186343816661913659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_9
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1400
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb6a8360e45c2030800000000000000
+      internalID: 3471242735515233202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_10
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1400
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82557ea97861e9a30800000000000000
+      internalID: 4223838272195351848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_11
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1400
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2814289579411520800000000000000
+      internalID: 2670996823419918381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_12
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1400
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8887f95ef0c0110800000000000000
+      internalID: 1228374277262706937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_13
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1400
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1398faa7fb16c2380800000000000000
+      internalID: -8994706880740751055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c577d37c3ff11a3b0800000000000000
+      internalID: -5503082137789827236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_15
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1200
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9593d13b90a33eb30800000000000000
+      internalID: 4315356681285220697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_16
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1200
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac6abf85cc394040800000000000000
+      internalID: 4632300510944849059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_17
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1200
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1bb7e924c479b890800000000000000
+      internalID: -7441788523387569381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_18
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1200
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca3de81e402a56a0800000000000000
+      internalID: -6459815195711817013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_19
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1200
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a40e42ba1dac1e0800000000000000
+      internalID: -2176696936891921860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_20
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1200
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efafe91d0da1cabe0800000000000000
+      internalID: -1464766294629876994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c110763d32269c0800000000000000
+      internalID: -3935543733495194608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_22
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1000
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384377108af2c6750800000000000000
+      internalID: 6299462377410081923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_23
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1000
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede1323663c41d250800000000000000
+      internalID: 5967634777717808862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_24
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1000
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6396f9107527da220800000000000000
+      internalID: 2498779086275438902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_25
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1000
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9a4ec6068cae930800000000000000
+      internalID: 4173368321181526435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_26
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1000
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01275c4b6ac17dca0800000000000000
+      internalID: -5992289276870168048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_27
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1000
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d75c412e0a4d5f0800000000000000
+      internalID: -732783946483008115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ccc4152d1abbffe0800000000000000
+      internalID: -1154124245151462202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_29
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 800
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ca1534876b8e9f0800000000000000
+      internalID: -438900336026866684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_30
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 800
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d202e330ac5d6f0800000000000000
+      internalID: -660399655063900892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_31
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 800
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2508b38e6568e69b0800000000000000
+      internalID: -5084979221433188270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_32
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 800
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a63c89e71f0cde0800000000000000
+      internalID: -1314785565161067909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_33
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 800
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326ac1c8a09f24dd0800000000000000
+      internalID: -2503164619168897501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_34
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 800
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14980399e7565d20800000000000000
+      internalID: 3266895240409682972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e803fac637b2c0140800000000000000
+      internalID: 4687169086930497678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_36
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 600
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78893189cf4962170800000000000000
+      internalID: 8153367988004952199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_37
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 600
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e691f912cf31f310800000000000000
+      internalID: 1436999858999367397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_38
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 600
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2434fbfa357f289f0800000000000000
+      internalID: -467539472490216638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_39
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 600
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43da3b2604d5bc910800000000000000
+      internalID: 1858681802335694132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_40
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 600
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f69cfba7eddea7a0800000000000000
+      internalID: -6363905236335290634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_41
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 600
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97883fec5ac26a8e0800000000000000
+      internalID: -1682608320123008903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63cf954a0779553b0800000000000000
+      internalID: -5524342857850553290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_43
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 400
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8c9ca8f4eed5460800000000000000
+      internalID: 7232198602025191642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_44
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 400
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4035a93d118cd02e0800000000000000
+      internalID: -2157848667550493948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_45
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 400
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a9b049be110f970800000000000000
+      internalID: 8786542576498612741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_46
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 400
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25699d405e501320800000000000000
+      internalID: 2526623089947141422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_47
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 400
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1afef8e942737b70800000000000000
+      internalID: 8895579350754064925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_48
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 400
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f95fdb349fe58b0800000000000000
+      internalID: -5161414053574893697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15694c049a2a84310800000000000000
+      internalID: 1389539332863596113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_50
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 200
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e8e7cd7fe04e640800000000000000
+      internalID: 5108224335063977506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_51
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 200
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d757e0c0ea20a50800000000000000
+      internalID: 6485937780172356997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_52
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 200
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66cf20b3fc38c560800000000000000
+      internalID: 7334179010503493229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_53
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 200
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72a0d78533b31fb0800000000000000
+      internalID: -4678198545414577540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_54
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 200
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4836d31f2761313a0800000000000000
+      internalID: -6695983538040380540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_55
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 200
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6383d7a531da7510800000000000000
+      internalID: 1547779450334315373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff937c6cea283870800000000000000
+      internalID: 8662721078167314417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_57
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 0
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7017b82726a8286f0800000000000000
+      internalID: -683832037973724921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_58
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440e4e04de8737f10800000000000000
+      internalID: 2266287997888815172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_59
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 0
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaed904a7599b7c90800000000000000
+      internalID: -7170969379964068182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_60
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 0
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200948583ec5b6120800000000000000
+      internalID: 2408120558027051010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_61
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 0
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402ec3973265a3930800000000000000
+      internalID: 4123703119168987652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance_62
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 0
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d2d24033a1b5a30800000000000000
+      internalID: 4204983483496213818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 259b44805c029bf4494bad212a52806f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

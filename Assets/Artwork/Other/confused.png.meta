@@ -1,0 +1,1116 @@
+fileFormatVersion: 2
+guid: 68c3f23ddf17d6c47b5e90840a6b61f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -254131194606244618
+    second: confused_0
+  - first:
+      213: -7997237010527309065
+    second: confused_1
+  - first:
+      213: -7224498954094028555
+    second: confused_2
+  - first:
+      213: 689695752447444416
+    second: confused_3
+  - first:
+      213: 2510853535910595835
+    second: confused_4
+  - first:
+      213: -6324621249117207797
+    second: confused_5
+  - first:
+      213: -2317346393029455399
+    second: confused_6
+  - first:
+      213: -4035737905559056196
+    second: confused_7
+  - first:
+      213: 8656176997286785149
+    second: confused_8
+  - first:
+      213: 3662002267123014874
+    second: confused_9
+  - first:
+      213: 6194080919339705378
+    second: confused_10
+  - first:
+      213: 3326412004706958454
+    second: confused_11
+  - first:
+      213: -2506446767042886478
+    second: confused_12
+  - first:
+      213: -3787440111126708240
+    second: confused_13
+  - first:
+      213: 4570513575687554001
+    second: confused_14
+  - first:
+      213: 263949739464815386
+    second: confused_15
+  - first:
+      213: -3145889093998219836
+    second: confused_16
+  - first:
+      213: -2066184401108680672
+    second: confused_17
+  - first:
+      213: -4529186255566687596
+    second: confused_18
+  - first:
+      213: -6996600790030275383
+    second: confused_19
+  - first:
+      213: 6171494803258710840
+    second: confused_20
+  - first:
+      213: -7415571589607517724
+    second: confused_21
+  - first:
+      213: 4724592031649069817
+    second: confused_22
+  - first:
+      213: -9041612375088924433
+    second: confused_23
+  - first:
+      213: -6447242539603678981
+    second: confused_24
+  - first:
+      213: 721377423595630575
+    second: confused_25
+  - first:
+      213: -45208209918151713
+    second: confused_26
+  - first:
+      213: 7890071507076555112
+    second: confused_27
+  - first:
+      213: -3039871680819043684
+    second: confused_28
+  - first:
+      213: 6514842517186461402
+    second: confused_29
+  - first:
+      213: -3877254608016315883
+    second: confused_30
+  - first:
+      213: 5992592834650350509
+    second: confused_31
+  - first:
+      213: -3212092457349044720
+    second: confused_32
+  - first:
+      213: 2750986865698899796
+    second: confused_33
+  - first:
+      213: 1283564740192357207
+    second: confused_34
+  - first:
+      213: -1330096448246042330
+    second: confused_35
+  - first:
+      213: -8406058005119209162
+    second: confused_36
+  - first:
+      213: 7613792184158404766
+    second: confused_37
+  - first:
+      213: -2595674789531013247
+    second: confused_38
+  - first:
+      213: -7699313758928604136
+    second: confused_39
+  - first:
+      213: 6578717241825376407
+    second: confused_40
+  - first:
+      213: 3501001571134261004
+    second: confused_41
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: confused_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1390
+        width: 341
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc26236605297cf0800000000000000
+      internalID: -254131194606244618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confused_1
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1390
+        width: 341
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2b9e26f4b140190800000000000000
+      internalID: -7997237010527309065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confused_2
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1390
+        width: 341
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f85b017a7c6dbb90800000000000000
+      internalID: -7224498954094028555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confused_3
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1390
+        width: 341
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5c9b7f1aa429900800000000000000
+      internalID: 689695752447444416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confused_4
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1390
+        width: 341
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc0cf2ecf758d220800000000000000
+      internalID: 2510853535910595835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confused_5
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 1390
+        width: 341
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b034b73bb7e6a38a0800000000000000
+      internalID: -6324621249117207797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confused_6
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 1390
+        width: 341
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d152fdbbb127dfd0800000000000000
+      internalID: -2317346393029455399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confused_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1112
+        width: 341
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0d294d1cd2ef7c0800000000000000
+      internalID: -4035737905559056196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confused_8
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1112
+        width: 341
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70bf2cdd1be02870800000000000000
+      internalID: 8656176997286785149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confused_9
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1112
+        width: 341
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcda8ae8ab02d230800000000000000
+      internalID: 3662002267123014874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confused_10
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1112
+        width: 341
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224a44b47cbc5f550800000000000000
+      internalID: 6194080919339705378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confused_11
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1112
+        width: 341
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c372d181ac92e20800000000000000
+      internalID: 3326412004706958454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confused_12
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 1112
+        width: 341
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b48bf1f1ff473dd0800000000000000
+      internalID: -2506446767042886478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confused_13
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 1112
+        width: 341
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fff930294f407bc0800000000000000
+      internalID: -3787440111126708240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confused_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 834
+        width: 341
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d305f7a1e9bd6f30800000000000000
+      internalID: 4570513575687554001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confused_15
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 834
+        width: 341
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a137b5bb3ecb9a300800000000000000
+      internalID: 263949739464815386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confused_16
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 834
+        width: 341
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cde571698e8754d0800000000000000
+      internalID: -3145889093998219836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confused_17
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 834
+        width: 341
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020c67bfb307353e0800000000000000
+      internalID: -2066184401108680672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confused_18
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 834
+        width: 341
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492bd53e8191521c0800000000000000
+      internalID: -4529186255566687596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confused_19
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 834
+        width: 341
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc270ba6a417ee90800000000000000
+      internalID: -6996600790030275383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confused_20
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 834
+        width: 341
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b976953dd85a550800000000000000
+      internalID: 6171494803258710840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confused_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 556
+        width: 341
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e117fabde8961990800000000000000
+      internalID: -7415571589607517724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confused_22
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 556
+        width: 341
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa751bbb6f119140800000000000000
+      internalID: 4724592031649069817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confused_23
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 556
+        width: 341
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe87c0a037db58280800000000000000
+      internalID: -9041612375088924433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confused_24
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 556
+        width: 341
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8a226b11bc686a0800000000000000
+      internalID: -6447242539603678981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confused_25
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 556
+        width: 341
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef676ad1f8d20a00800000000000000
+      internalID: 721377423595630575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confused_26
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 556
+        width: 341
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3b5e26f536f5ff0800000000000000
+      internalID: -45208209918151713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confused_27
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 556
+        width: 341
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861aab77b3a2f7d60800000000000000
+      internalID: 7890071507076555112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confused_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 278
+        width: 341
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92e20eefc430d5d0800000000000000
+      internalID: -3039871680819043684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confused_29
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 278
+        width: 341
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adeb28490ce596a50800000000000000
+      internalID: 6514842517186461402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confused_30
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 278
+        width: 341
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ae0710a79313ac0800000000000000
+      internalID: -3877254608016315883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confused_31
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 278
+        width: 341
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3a2e8de67f92350800000000000000
+      internalID: 5992592834650350509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confused_32
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 278
+        width: 341
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016affdadea5c63d0800000000000000
+      internalID: -3212092457349044720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confused_33
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 278
+        width: 341
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4578fbf9af77d2620800000000000000
+      internalID: 2750986865698899796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confused_34
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 278
+        width: 341
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75bc161a45320d110800000000000000
+      internalID: 1283564740192357207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confused_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 341
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6213945d35c8a8de0800000000000000
+      internalID: -1330096448246042330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confused_36
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 0
+        width: 341
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6317a8318cea75b80800000000000000
+      internalID: -8406058005119209162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confused_37
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 0
+        width: 341
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e904862e6af99a960800000000000000
+      internalID: 7613792184158404766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confused_38
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 0
+        width: 341
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f2199088f4afbd0800000000000000
+      internalID: -2595674789531013247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confused_39
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 0
+        width: 341
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81478c0ddea862590800000000000000
+      internalID: -7699313758928604136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confused_40
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 0
+        width: 341
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7983db4d97c4c4b50800000000000000
+      internalID: 6578717241825376407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confused_41
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 0
+        width: 341
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07ca8d316e069030800000000000000
+      internalID: 3501001571134261004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6df06fca4e7800c40bc7fe3f10fb8b70
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

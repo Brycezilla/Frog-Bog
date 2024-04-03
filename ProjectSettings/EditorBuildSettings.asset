@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Splash1.unity
+    guid: ccf3cc2de89fa9d47b604eb04257472e
+  - enabled: 1
+    path: Assets/Scenes/Splash3.unity
+    guid: 2c6903342202e8c4aaba89fabdb61e84
+  - enabled: 1
+    path: Assets/Scenes/Splash2.unity
+    guid: e3494e38e4346b641af1af06382de190
+  - enabled: 1
+    path: Assets/Scenes/BESTSCENE.unity
+    guid: 67aedcda874a8564eb37afb8a130dd23
+  - enabled: 0
+    path: Assets/Scenes/Main Menu.unity
+    guid: bc233b75d360cbe4cbf4bb0c287580a1
+  - enabled: 0
+    path: Assets/Scenes/Alpha.unity
+    guid: 95ad2658b8d03db45a8c41147064cf42
+  - enabled: 1
+    path: Assets/Scenes/Character Selection.unity
+    guid: 9cdb7753843f5b849a591211e34e5be6
+  - enabled: 0
+    path: Assets/Scenes/Beta.unity
+    guid: 80c770287b713b044a56b10c5884b7e0
+  - enabled: 1
+    path: Assets/Scenes/TestScene.unity
+    guid: 37155fbd5299b7f4c8c8ef3090ba2c86
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 1aadf3527fcaf7a469a3d14e41b17125
+  - enabled: 1
+    path: Assets/Scenes/Level Select.unity
+    guid: 66c08f11c2cdfad42803be0b50de89b7
+  - enabled: 1
+    path: Assets/Scenes/Epic_Credits.unity
+    guid: b56b78c13ff9850468d63c5b11617798
+  - enabled: 1
+    path: Assets/Scenes/Lame_Credits.unity
+    guid: 5106dd7fe189ede4cb08b5176826d72d
+  - enabled: 1
+    path: Assets/Scenes/Easy.unity
+    guid: d95759d155b372e49b6a9aa98d2c29cb
+  - enabled: 1
+    path: Assets/Scenes/Medium.unity
+    guid: f937ce0f1799291499c48d6fb18f8fd3
+  - enabled: 1
+    path: Assets/Scenes/Hard.unity
+    guid: f25b02662ecacc342896d26245c7e5cb
+  m_configObjects: {}

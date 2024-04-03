@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3640991c51634d840a773cad28035bec, type: 3}
+  m_Name: New Character Database
+  m_EditorClassIdentifier: 
+  character:
+  - characterName: Finn
+    characterSprite: {fileID: 3168485177583749839, guid: 45af2d2d84dec244f97ad663541e9c18, type: 3}
+    controller: {fileID: 9100000, guid: e1a5edfdbc7e2374b813fcb37b300c11, type: 2}
+  - characterName: Lexi
+    characterSprite: {fileID: -7381184880430962403, guid: 555ecbc172a81694a99c825f6eb5cb4b, type: 3}
+    controller: {fileID: 9100000, guid: 2af960d10a4523f4b819ac97302184ae, type: 2}
+  - characterName: Fred
+    characterSprite: {fileID: -1650930033846453904, guid: 82ba28f0e42669a40aa6e4b6b7fa1ef8, type: 3}
+    controller: {fileID: 9100000, guid: aacc41ec6261b8245b0de8452063db52, type: 2}
+  - characterName: Chadicus
+    characterSprite: {fileID: 8166710274925509176, guid: 2e60a2935daebb44b9e6a4e3542476c4, type: 3}
+    controller: {fileID: 9100000, guid: 1e84d8f01aaf1ba45816d58caf23ee6a, type: 2}
+  - characterName: Goblin
+    characterSprite: {fileID: -5159292096726273182, guid: bd1799f4e7a72904ca0d990c0af36d68, type: 3}
+    controller: {fileID: 9100000, guid: 5c322b02c26b711469a0d991a2583d00, type: 2}
+  - characterName: Bradicus
+    characterSprite: {fileID: -2615874204119335, guid: b50a0bd1b0197d843b2ee66d7d17059c, type: 3}
+    controller: {fileID: 9100000, guid: bff097edb8c03594bb770efb7f257604, type: 2}
+  - characterName: "N\u0337\u0313\u0306\u0344\u0342\u0303\u032F\u032A\u032F\u0317\u0317\u034E\u0317\u0324\u031F\u0316\u0331\u0322\u0318\u0349\u0328\u031DU\u0336\u0306\u0309\u030B\u0343\u0310\u030F\u0300\u0302\u0351\u035D\u0310\u0346\u0308\u0310\u0340\u0344\u0342\u0350\u035D\u0351\u0358\u030C\u0342\u0309\u0315\u033E\u0303\u0320\u0348\u032D\u0354\u0359\u0348\u032D\u032D\u0348\u035C\u035AL\u0337\u0357\u0303\u030E\u034B\u0343\u0341\u0342\u0350\u0360\u0305\u035B\u0308\u0304\u0350\u0351\u0306\u031B\u035D\u033D\u035B\u034C\u0360\u035D\u0346\u0351\u030B\u0313\u034B\u0357\u0314\u0348\u0354\u035C\u0355\u0353\u0328\u0316L\u0337\u0351\u0304\u0306\u030F\u030E\u032D\u033C\u0320\u0339\u0359\u0324\u0355\u031E\u0324\u0333\u0331\u034D\u0326\u0322\u032B\u0348\u0348\u031C\u0331\u035A\u031E\u0321\u0356\u034E\u033B\u0322"
+    characterSprite: {fileID: 2063826154672905881, guid: 71de1dfd2c37345488884e0f144bc553, type: 3}
+    controller: {fileID: 9100000, guid: 74ba26b467631ce49a17f31555ca52d5, type: 2}
+  - characterName: Francis
+    characterSprite: {fileID: -8425141836431729757, guid: 3d5ffb3c0d2ba8b479692df46a0658bf, type: 3}
+    controller: {fileID: 9100000, guid: e6efd31182beaf44fa001f19677fe6ae, type: 2}
+  - characterName: 
+    characterSprite: {fileID: 2186358397977259576, guid: 1b4e080757acf3f45b2ade605a6b9922, type: 3}
+    controller: {fileID: 9100000, guid: 44c23e5a1ff900c47b018a3f4cbbeaf3, type: 2}
